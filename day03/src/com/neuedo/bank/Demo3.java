@@ -23,7 +23,7 @@ public class Demo3 {
         System.out.println("第二年活期："+i2);
         System.out.println("第一年定期："+j1);
         System.out.println("第二年定期："+j2);
-        asd
+
 
     }
 }
